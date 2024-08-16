@@ -26,7 +26,6 @@ export default function LandingMain() {
             Taskify
           </strong>
         </h2>
-        <span className='pt-6 text-lg'>서비스의 메인 설명 들어갑니다.</span>
         <Link
           href='/login'
           className='mt-[66px] inline-flex h-[50px] w-[280px] items-center justify-center rounded-lg bg-custom_violet-_5534da pb-3.5 pt-[15px]'
